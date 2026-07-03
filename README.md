@@ -12,6 +12,9 @@
 
 ## 목차
 
+### llm
+- [흔들리는 계산은 모델에서 빼고 코드로 옮긴다](llm/deterministic-computation-out-of-llm.md)
+
 ### evaluation
 - [결측값(null)이 낀 예측/정답을 F1에서 세는 법](evaluation/f1-with-null-values.md)
 
