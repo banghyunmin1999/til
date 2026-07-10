@@ -15,6 +15,7 @@
 ### llm
 - [흔들리는 계산은 모델에서 빼고 코드로 옮긴다](llm/deterministic-computation-out-of-llm.md)
 - [다단계 파이프라인은 단계별 출력을 격리 캡처해 범인을 찾는다](llm/multi-stage-pipeline-stage-isolation.md)
+- [배치 호출은 항목 수가 늘수록 개별 항목의 추론을 잃는다](llm/batch-size-degrades-per-item-reasoning.md)
 
 ### evaluation
 - [결측값(null)이 낀 예측/정답을 F1에서 세는 법](evaluation/f1-with-null-values.md)
