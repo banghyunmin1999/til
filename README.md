@@ -19,6 +19,7 @@
 
 ### evaluation
 - [결측값(null)이 낀 예측/정답을 F1에서 세는 법](evaluation/f1-with-null-values.md)
+- [채점 범위를 고를 수 있으면 F1은 사실이 아니라 주장이 된다](evaluation/scoring-scope-sensitivity.md)
 
 ### testing
 - [회귀 확인은 자동 게이트와 사람 판단을 나눈다](testing/regression-two-tiers.md)
